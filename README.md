@@ -8,17 +8,18 @@
 
 <p>My official journey into programming began in 1999 where I studied Computer Science at UCLA (go bruins!), but my fascination with code started in the early days of the interwebs, where I taught myself HTML and building personal web pages. At university, I pulled all-nighters writing in C and C++. Today, I am most comfortable in python, and am beginning to dabble in machine (deep) learning.</p>
 
-<p>Ever since <em>Jurassic Park</em> stomped all over cinemas and my eyeballs in 1993, I wanted to somehow forge a career combining technology and film, so I grabbed every book I could find on Visual Effects at the time (and studied them cover-to-cover) and eventually crafted a minor at UCLA in Design/Media Arts with a focus in Film. As soon as I graduated in 2003, I landed my dream job as a Pipeline Intern at <em>Rhythm & Hues Studios</em> in Los Angeles, working my way up to Lead Animation Layout TD.</p>
+<p>Ever since <em>Jurassic Park</em> stomped all over cinemas and my eyeballs in 1993, I wanted to somehow forge a career combining technology and film, so I grabbed every book I could find on Visual Effects at the time (and studied them cover-to-cover) and eventually crafted a minor at UCLA in Design/Media Arts with a focus in Film. As soon as I graduated in 2003, I landed my dream job as a Pipeline Intern at <em>Rhythm & Hues Studios</em> in Los Angeles, working my way up to Lead Animation Layout TD on <em>The Chronicles of Narnia: The Lion, the Witch, and the Wardrobe</em>. We really thought we had a shot at the Visual Effects Oscar with that one, until a little shop in NZ nabbed their fourth in a row, with <em>King Kong</em>!</p>
 
-<p>Fast forward to 2006, and I landed another dream job in Wellington, New Zealand, at <em>Weta Digital</em> (now <em>Wētā FX</em>), as an Animation Technical Director, and have been lucky enough to build pipeline and tooling for Animators and Motion artists on films like:
+<p>Fast forward to 2006, and I landed another dream job in Wellington, New Zealand, at that little shop called <em>Weta Digital</em> (now <em>Wētā FX</em>), as an Animation Technical Director, and have been lucky enough to build pipeline and tooling for Animators and Motion artists on films like:
 
   * _Avatar_
   * _The Hobbit_ Trilogy
   * _The Planet of the Apes_ Trilogy (Rise, Dawn, War)
 
-More recently, I've also been lucky enough to manage our exceptional team of Motion R&D engineers on:
+Since 2016, I've been managing our exceptional team of Motion R&D engineers to help deliver projects like:
   * _Avengers: Infinity War + Endgame_
   * _Avatar: The Way of Water_
+  * _The Last of Us_ Season 1
   * _The Kingdom of the Planet of the Apes_
 
 </p>
