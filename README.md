@@ -7,8 +7,8 @@
 
 
 <p>My official journey into programming began in 1999 where I studied Computer Science at UCLA, but my fascination with code started in the early days of the interwebs, where I taught myself HTML and building personal web pages.<br>
-Ever since _Jurassic Park_ stomped all over cinemas and my eyeballs in 1993, I wanted to somehow forge a career in technology and film, so I minored in Design/Media Arts. As soon as I graduated in 2003, I landed my dream job as a Pipeline Intern at <em>Rhythm & Hues Studios</em> in Los Angeles, working my way up to Lead Animation Layout TD.</p>
-<p>Fast forward to 2006, and I landed another dream job at Weta Digital (now Wētā FX), as an Animation Technical Director, and have been lucky enough to build pipeline and tooling for Animators and Motion artists on films like:
+Ever since <em>Jurassic Park</em> stomped all over cinemas and my eyeballs in 1993, I wanted to somehow forge a career in technology and film, so I minored in Design/Media Arts. As soon as I graduated in 2003, I landed my dream job as a Pipeline Intern at <em>Rhythm & Hues Studios</em> in Los Angeles, working my way up to Lead Animation Layout TD.</p>
+<p>Fast forward to 2006, and I landed another dream job at <em>Weta Digital</em> (now <em>Wētā FX</em>), as an Animation Technical Director, and have been lucky enough to build pipeline and tooling for Animators and Motion artists on films like:
 
   * _Avatar_
   * _The Hobbit_ Trilogy
