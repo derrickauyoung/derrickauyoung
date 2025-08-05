@@ -16,11 +16,16 @@
   * _The Hobbit_ Trilogy
   * _The Planet of the Apes_ Trilogy (Rise, Dawn, War)
 
-Since 2016, I've been managing our exceptional team of Motion R&D engineers to help deliver projects like:
+From 2016-2024, I managed our exceptional team of Motion R&D engineers to help deliver projects like:
   * _Avengers: Infinity War + Endgame_
   * _Avatar: The Way of Water_
   * _The Last of Us_ Season 1
   * _The Kingdom of the Planet of the Apes_
+
+I also had the great opportunity to be a character animator on:
+  * Caesar, _Rise of the Planet of the Apes_ (Weta Digital)
+  * African Animals Exhibit, Old West Exhibit crowd shots, _Night at the Museum_ (Rhythm & Hues)
+  * Aslan, _The Chronicles of Narnia: The Lion, the Witch, and the Wardrobe_ (Rhythm & Hues)
 
 </p>
 
