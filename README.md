@@ -6,7 +6,7 @@
  [![IMDB: Derrick Auyoung](https://img.shields.io/badge/Derrick-Auyoung?style=flat-square&logo=imdb&labelColor=grey&color=yellow&link=https://www.imdb.com/name/nm1652099)](https://www.imdb.com/name/nm1652099)
 
 
-<p>My official journey into programming began in 1999 where I studied Computer Science at UCLA (go bruins!), but my fascination with code started in the early days of the interwebs, where I taught myself HTML and building personal web pages. At University, I pulled all-nighters writing in C and C++. Today, I am most comfortable in python, can find my way around C++, and am dipping my pinky toe into learning how machine (deep) learning works. I just <b>love</b> learning! I've dabbled in a bit of React/Javascript, and started learning about runtime animation programming for game engines, including Unreal. And most recently, I've started experimenting with ComfyUI workflows in my endless pursuit of creative enablement.</p>
+<p>My official journey into programming began in 1999 where I studied Computer Science at UCLA (go bruins!), but my fascination with code started in the early days of the interwebs, where I taught myself HTML and building personal web pages. At University, I pulled all-nighters writing in C and C++. Today, I am most comfortable in python, can find my way around C++, and am dipping my pinky toe into learning how machine (deep) learning works. I just <b>love</b> learning! I've dabbled in a bit of React/Javascript, and run-time animation programming (and math!) for game engines, including Unreal. And most recently, I've started experimenting with ComfyUI workflows in my endless pursuit of creative enablement.</p>
 
 <p><i>But first</i> a bit of background...</p>
 
