@@ -1,6 +1,6 @@
 <h2>Hi 👋, I’m <a href="https://github.com/derrickauyoung/derrickauyoung">@derrickauyoung</a></h2>
 
-<p><em>Software Engineer and Technology Leader</em> at <a href="https://www.wetafx.co.nz/">Wētā FX</a></p>
+<p><em>Software Engineer, People and Product Leader</em></p>
 
 [![LinkedIn: derrick-auyoung](https://img.shields.io/badge/derrick-auyoung-0956162?style=flat-square&logo=LinkedIn&logoColor=white&labelColor=blue&color=blue&link=https://www.linkedin.com/in/derrick-auyoung-0956162/)](https://www.linkedin.com/in/derrick-auyoung-0956162/)
  [![IMDB: Derrick Auyoung](https://img.shields.io/badge/Derrick-Auyoung?style=flat-square&logo=imdb&labelColor=grey&color=yellow&link=https://www.imdb.com/name/nm1652099)](https://www.imdb.com/name/nm1652099)
